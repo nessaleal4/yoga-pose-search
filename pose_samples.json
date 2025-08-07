@@ -1,0 +1,537 @@
+{
+  "adho mukha svanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/adho mukha svanasana/50. blog-14-size.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/adho mukha svanasana/16. one-leg-downward-facing-dog-yoga-pose.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/adho mukha svanasana/29. adho-mukha-svanasana.png"
+  ],
+  "adho mukha vriksasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/adho mukha vriksasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/adho mukha vriksasana/77-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/adho mukha vriksasana/52-0.png"
+  ],
+  "agnistambhasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/agnistambhasana/1-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/agnistambhasana/48-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/agnistambhasana/32-0.png"
+  ],
+  "ananda balasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ananda balasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ananda balasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ananda balasana/90-0.png"
+  ],
+  "anantasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/anantasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/anantasana/77-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/anantasana/48-0.png"
+  ],
+  "anjaneyasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/anjaneyasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/anjaneyasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/anjaneyasana/25-0.png"
+  ],
+  "ardha bhekasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha bhekasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha bhekasana/35-5.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha bhekasana/25-0.png"
+  ],
+  "ardha chandrasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha chandrasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha chandrasana/90-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha chandrasana/0-0.png"
+  ],
+  "ardha matsyendrasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha matsyendrasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha matsyendrasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha matsyendrasana/18-2.png"
+  ],
+  "ardha pincha mayurasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha pincha mayurasana/27-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha pincha mayurasana/38-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha pincha mayurasana/0-0.png"
+  ],
+  "ardha uttanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha uttanasana/34-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha uttanasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ardha uttanasana/85-1.png"
+  ],
+  "ashtanga namaskara": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ashtanga namaskara/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ashtanga namaskara/79-4.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ashtanga namaskara/48-0.png"
+  ],
+  "astavakrasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/astavakrasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/astavakrasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/astavakrasana/82-1.png"
+  ],
+  "baddha konasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/baddha konasana/18. _baddha-konasana.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/baddha konasana/79. dsc_6815.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/baddha konasana/31. baddha-konasana-namaskar.png"
+  ],
+  "bakasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bakasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bakasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bakasana/52-0.png"
+  ],
+  "balasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/balasana/17. extended-child-pose.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/balasana/2. childs-pose-modifications-plus-size-yoga.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/balasana/31. childspose2.png"
+  ],
+  "bhairavasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhairavasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhairavasana/90-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhairavasana/52-0.png"
+  ],
+  "bharadvajasana i": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bharadvajasana i/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bharadvajasana i/52-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bharadvajasana i/0-0.png"
+  ],
+  "bhekasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhekasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhekasana/33-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhekasana/25-0.png"
+  ],
+  "bhujangasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhujangasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhujangasana/82-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhujangasana/90-0.png"
+  ],
+  "bhujapidasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhujapidasana/106-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhujapidasana/197-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bhujapidasana/201-0.png"
+  ],
+  "bitilasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bitilasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bitilasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/bitilasana/3-1.png"
+  ],
+  "camatkarasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/camatkarasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/camatkarasana/77-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/camatkarasana/52-0.png"
+  ],
+  "chakravakasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/chakravakasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/chakravakasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/chakravakasana/85-1.png"
+  ],
+  "chaturanga dandasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/chaturanga dandasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/chaturanga dandasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/chaturanga dandasana/77-0.png"
+  ],
+  "dandasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dandasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dandasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dandasana/11. hqdefault.jpg"
+  ],
+  "dhanurasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dhanurasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dhanurasana/48-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dhanurasana/32-0.png"
+  ],
+  "durvasasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/durvasasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/durvasasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/durvasasana/25-0.png"
+  ],
+  "dwi pada viparita dandasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dwi pada viparita dandasana/41-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dwi pada viparita dandasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/dwi pada viparita dandasana/25-0.png"
+  ],
+  "eka pada koundinyanasana i": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada koundinyanasana i/52-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada koundinyanasana i/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada koundinyanasana i/48-0.png"
+  ],
+  "eka pada koundinyanasana ii": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada koundinyanasana ii/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada koundinyanasana ii/91.jpeg",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada koundinyanasana ii/25-0.png"
+  ],
+  "eka pada rajakapotasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada rajakapotasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada rajakapotasana/52-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada rajakapotasana/99-0.png"
+  ],
+  "eka pada rajakapotasana ii": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada rajakapotasana ii/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada rajakapotasana ii/77-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/eka pada rajakapotasana ii/52-0.png"
+  ],
+  "ganda bherundasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ganda bherundasana/93-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ganda bherundasana/76-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ganda bherundasana/69-0.png"
+  ],
+  "garbha pindasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/garbha pindasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/garbha pindasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/garbha pindasana/48-0.png"
+  ],
+  "garudasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/garudasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/garudasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/garudasana/90-0.png"
+  ],
+  "gomukhasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/gomukhasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/gomukhasana/29-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/gomukhasana/90-0.png"
+  ],
+  "halasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/halasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/halasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/halasana/48-0.png"
+  ],
+  "hanumanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/hanumanasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/hanumanasana/53-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/hanumanasana/15-0.png"
+  ],
+  "janu sirsasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/janu sirsasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/janu sirsasana/32-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/janu sirsasana/69-0.png"
+  ],
+  "kapotasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/kapotasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/kapotasana/52-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/kapotasana/0-0.png"
+  ],
+  "krounchasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/krounchasana/38-3.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/krounchasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/krounchasana/20-1.png"
+  ],
+  "kurmasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/kurmasana/93-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/kurmasana/53-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/kurmasana/32-0.png"
+  ],
+  "lolasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/lolasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/lolasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/lolasana/77-0.png"
+  ],
+  "makara adho mukha svanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/makara adho mukha svanasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/makara adho mukha svanasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/makara adho mukha svanasana/48-0.png"
+  ],
+  "makarasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/makarasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/makarasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/makarasana/48-0.png"
+  ],
+  "malasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/malasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/malasana/61-3.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/malasana/90-0.png"
+  ],
+  "marichyasana i": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marichyasana i/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marichyasana i/80-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marichyasana i/25-0.png"
+  ],
+  "marichyasana iii": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marichyasana iii/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marichyasana iii/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marichyasana iii/48-0.png"
+  ],
+  "marjaryasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marjaryasana/27-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marjaryasana/90-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/marjaryasana/0-0.png"
+  ],
+  "matsyasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/matsyasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/matsyasana/1-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/matsyasana/48-0.png"
+  ],
+  "mayurasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/mayurasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/mayurasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/mayurasana/53-0.png"
+  ],
+  "natarajasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/natarajasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/natarajasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/natarajasana/25-0.png"
+  ],
+  "padangusthasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/padangusthasana/95-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/padangusthasana/91-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/padangusthasana/81-0.png"
+  ],
+  "padmasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/padmasana/44. ashtanga-yoga-dubai-robin-padmasana.1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/padmasana/canva-woman-in-ardha-padmasana--MAClQJYkvGk.jpg",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/padmasana/depositphotos_124674416-stock-photo-beautiful-sportive-woman-meditating-in.jpg"
+  ],
+  "parighasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parighasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parighasana/95-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parighasana/57-0.png"
+  ],
+  "paripurna navasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/paripurna navasana/87-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/paripurna navasana/77-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/paripurna navasana/0-0.png"
+  ],
+  "parivrtta janu sirsasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta janu sirsasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta janu sirsasana/66-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta janu sirsasana/41-0.png"
+  ],
+  "parivrtta parsvakonasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta parsvakonasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta parsvakonasana/12-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta parsvakonasana/25-0.png"
+  ],
+  "parivrtta trikonasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta trikonasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta trikonasana/3-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parivrtta trikonasana/52-0.png"
+  ],
+  "parsva bakasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parsva bakasana/6. parsva-bakasana-02dec14.jpeg",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parsva bakasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parsva bakasana/52-0.png"
+  ],
+  "parsvottanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parsvottanasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parsvottanasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/parsvottanasana/0-0.png"
+  ],
+  "pasasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/pasasana/25-4.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/pasasana/25-3.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/pasasana/0-0.png"
+  ],
+  "paschimottanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/paschimottanasana/140-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/paschimottanasana/123-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/paschimottanasana/134-0.png"
+  ],
+  "phalakasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/phalakasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/phalakasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/phalakasana/File11.jpg"
+  ],
+  "pincha mayurasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/pincha mayurasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/pincha mayurasana/50-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/pincha mayurasana/0-0.png"
+  ],
+  "prasarita padottanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/prasarita padottanasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/prasarita padottanasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/prasarita padottanasana/79-2.png"
+  ],
+  "purvottanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/purvottanasana/1-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/purvottanasana/48-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/purvottanasana/93-0.png"
+  ],
+  "salabhasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salabhasana/33-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salabhasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salabhasana/90-0.png"
+  ],
+  "salamba bhujangasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba bhujangasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba bhujangasana/61-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba bhujangasana/0-0.png"
+  ],
+  "salamba sarvangasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba sarvangasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba sarvangasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba sarvangasana/62-0.png"
+  ],
+  "salamba sirsasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba sirsasana/90-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba sirsasana/81-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/salamba sirsasana/52-0.png"
+  ],
+  "savasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/savasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/savasana/3-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/savasana/38. 57148598_s-514008a0.jpeg"
+  ],
+  "setu bandha sarvangasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/setu bandha sarvangasana/File45.jpg",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/setu bandha sarvangasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/setu bandha sarvangasana/File63.jpg"
+  ],
+  "simhasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/simhasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/simhasana/1-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/simhasana/48-0.png"
+  ],
+  "sukhasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/sukhasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/sukhasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/sukhasana/90-0.png"
+  ],
+  "supta baddha konasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta baddha konasana/90-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta baddha konasana/82-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta baddha konasana/25-0.png"
+  ],
+  "supta matsyendrasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta matsyendrasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta matsyendrasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta matsyendrasana/0-0.png"
+  ],
+  "supta padangusthasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta padangusthasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta padangusthasana/77-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta padangusthasana/52-0.png"
+  ],
+  "supta virasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta virasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta virasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/supta virasana/48-0.png"
+  ],
+  "tadasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tadasana/37. amandamonzonyoga-posebreakdown-tadasana.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tadasana/Tadasana.A.jpg",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tadasana/18. 431109_preview.png"
+  ],
+  "tittibhasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tittibhasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tittibhasana/87-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tittibhasana/42-1.png"
+  ],
+  "tolasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tolasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tolasana/52-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tolasana/0-0.png"
+  ],
+  "tulasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tulasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tulasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/tulasana/1-0.png"
+  ],
+  "upavistha konasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/upavistha konasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/upavistha konasana/1-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/upavistha konasana/48-0.png"
+  ],
+  "urdhva dhanurasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva dhanurasana/29-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva dhanurasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva dhanurasana/77-0.png"
+  ],
+  "urdhva hastasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva hastasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva hastasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva hastasana/40. brock_christy_urdhva_hastasana.jpeg"
+  ],
+  "urdhva mukha svanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva mukha svanasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva mukha svanasana/80-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva mukha svanasana/77-0.png"
+  ],
+  "urdhva prasarita eka padasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva prasarita eka padasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva prasarita eka padasana/32-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/urdhva prasarita eka padasana/0-0.png"
+  ],
+  "ustrasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ustrasana/90-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ustrasana/61-3.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/ustrasana/90-0.png"
+  ],
+  "utkatasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utkatasana/27. paul-57-512.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utkatasana/2. d691b767d75133d3e177618dd04dfeaa.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utkatasana/8. 3+big+ideas+for+improving+your+utkatasana.png"
+  ],
+  "uttana shishosana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/uttana shishosana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/uttana shishosana/92-2.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/uttana shishosana/85-1.png"
+  ],
+  "uttanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/uttanasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/uttanasana/77-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/uttanasana/62-0.png"
+  ],
+  "utthita ashwa sanchalanasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita ashwa sanchalanasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita ashwa sanchalanasana/90-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita ashwa sanchalanasana/0-0.png"
+  ],
+  "utthita hasta padangustasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita hasta padangustasana/27-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita hasta padangustasana/12-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita hasta padangustasana/77-0.png"
+  ],
+  "utthita parsvakonasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita parsvakonasana/33-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita parsvakonasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita parsvakonasana/90-0.png"
+  ],
+  "utthita trikonasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita trikonasana/16-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita trikonasana/3-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/utthita trikonasana/25-0.png"
+  ],
+  "vajrasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vajrasana/27-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vajrasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vajrasana/77-0.png"
+  ],
+  "vasisthasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vasisthasana/80-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vasisthasana/3-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vasisthasana/77-0.png"
+  ],
+  "viparita karani": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/viparita karani/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/viparita karani/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/viparita karani/42-1.png"
+  ],
+  "virabhadrasana i": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana i/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana i/File56.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana i/25-0.png"
+  ],
+  "virabhadrasana ii": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana ii/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana ii/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana ii/0-0.png"
+  ],
+  "virabhadrasana iii": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana iii/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana iii/90-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virabhadrasana iii/52-0.png"
+  ],
+  "virasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/virasana/90-0.png"
+  ],
+  "vriksasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vriksasana/27-1.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vriksasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vriksasana/48-0.png"
+  ],
+  "vrischikasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vrischikasana/25-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vrischikasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/vrischikasana/48-0.png"
+  ],
+  "yoganidrasana": [
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/yoganidrasana/40-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/yoganidrasana/0-0.png",
+    "/kaggle/input/yoga-poses-dataset-107/107 yoga poses/train/yoganidrasana/48-0.png"
+  ]
+}
