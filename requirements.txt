@@ -1,12 +1,15 @@
+# requirements.txt for Streamlit Cloud Deployment
+# Fixed for Python 3.13 compatibility
+
 # Core Streamlit
 streamlit==1.29.0
 
-# PyTorch (CPU version for Streamlit Cloud to save resources)
-torch==2.1.0
-torchvision==0.16.0
+# PyTorch - Updated to support Python 3.13
+torch==2.5.0
+torchvision==0.20.0
 --extra-index-url https://download.pytorch.org/whl/cpu
 
-# For EfficientNet models (optional, but good to have)
+# For EfficientNet models (optional)
 timm==0.9.12
 
 # Image processing
@@ -22,4 +25,4 @@ qdrant-client==1.7.0
 plotly==5.18.0
 
 # Optional but recommended
-python-dotenv==1.0.0  # For local development with .env files
+python-dotenv==1.0.0
