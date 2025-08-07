@@ -4,9 +4,9 @@
 # Core Streamlit
 streamlit==1.29.0
 
-# PyTorch - Updated to support Python 3.13
+# PyTorch - Compatible with Python 3.13
 torch==2.5.0
-torchvision==0.20.0
+torchvision==0.21.0
 --extra-index-url https://download.pytorch.org/whl/cpu
 
 # For EfficientNet models (optional)
