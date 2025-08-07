@@ -1,0 +1,25 @@
+# Core Streamlit
+streamlit==1.29.0
+
+# PyTorch (CPU version for Streamlit Cloud to save resources)
+torch==2.1.0
+torchvision==0.16.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# For EfficientNet models (optional, but good to have)
+timm==0.9.12
+
+# Image processing
+Pillow==10.1.0
+
+# Numerical computing
+numpy==1.24.3
+
+# Vector database client
+qdrant-client==1.7.0
+
+# Visualization
+plotly==5.18.0
+
+# Optional but recommended
+python-dotenv==1.0.0  # For local development with .env files
