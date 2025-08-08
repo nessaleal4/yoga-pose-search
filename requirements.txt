@@ -1,28 +1,28 @@
 # requirements.txt for Streamlit Cloud Deployment
-# Conservative approach for Python 3.13
+# Python 3.13 compatible - Latest versions
 
-# Core Streamlit
-streamlit==1.29.0
+# Core Streamlit - latest version
+streamlit==1.39.0
 
-# PyTorch - versions that work with Python 3.13
+# PyTorch - Latest stable for Python 3.13
 torch==2.5.1
 torchvision==0.20.1
 --extra-index-url https://download.pytorch.org/whl/cpu
 
 # For EfficientNet models
-timm==0.9.12
+timm==1.0.11
 
-# Image processing - Max version for Streamlit 1.29.0
-Pillow==10.4.0
+# Image processing - Latest that works with new Streamlit
+Pillow==11.0.0
 
-# Numerical computing - Latest stable
-numpy==2.0.0
+# Numerical computing - Latest for Python 3.13
+numpy==2.1.3
 
-# Vector database client - Fix version number
-qdrant-client==1.7.3
+# Vector database client - Latest available
+qdrant-client==1.12.1
 
 # Visualization
-plotly==5.18.0
+plotly==5.24.1
 
 # Optional
-python-dotenv==1.0.0
+python-dotenv==1.0.1
