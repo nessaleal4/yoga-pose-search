@@ -13,7 +13,7 @@ An AI-powered web application for finding similar yoga poses using semantic imag
 - **Deployment:** Streamlit Cloud  
 
 ## Live Demo
-[[View Live Application](#) ](https://yoga-pose-search.streamlit.app/)
+https://yoga-pose-search.streamlit.app/
 
 ## Assignment Details
 - **Course:** Advanced Computer Vision with Deep Learning – University of Chicago  
